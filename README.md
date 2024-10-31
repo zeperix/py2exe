@@ -8,3 +8,4 @@ pip install -r requirement.txt
 ```
 python run.py
 ```
+Author: [Brent](https://github.com/brentvollebregt/auto-py-to-exe)
